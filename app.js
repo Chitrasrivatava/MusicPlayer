@@ -13,6 +13,7 @@ const artist_title = ['Faded','Baby I Like Your Style One Dance','Raatan Lambiya
 
 playSong.addEventListener('click',effect)
 
+// Comments
 function effect(){
 
     if(ad.duration == ad.currentTime){
